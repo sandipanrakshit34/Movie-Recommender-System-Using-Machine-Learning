@@ -4,15 +4,13 @@
 
 Recommendation systems are becoming increasingly important in today’s extremely busy world. People are always short on time with the myriad tasks they need to accomplish in the limited 24 hours. Therefore, the recommendation systems are important as they help them make the right choices, without having to expend their cognitive resources.
 
-## Access
-Deployed **App** => https://huggingface.co/spaces/sandipan23/Movie-Recommender-System
-
 # About this project:
 
 This is a streamlit web application that can recommend various kinds of similar movies based on an user interest.
 here is a demo,
 
-* [Click here to run it live on server](https://huggingface.co/spaces/sandipan23/Movie-Recommender-System)
+Deployed **App** => https://huggingface.co/spaces/sandipan23/Movie-Recommender-System
+
 
 # Demo:
 
